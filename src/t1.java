@@ -41,10 +41,7 @@ public class t1 {
 			break;
 		
 		}
-		int i = 0;
-		while(i < 1000000){
-			System.out.println(i);
-			i++;
-		}
+		JOptionPane.showMessageDialog(null,"hello");
+		
 	}
 }
